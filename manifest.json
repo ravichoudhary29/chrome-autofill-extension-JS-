@@ -1,0 +1,9 @@
+{
+    "name": "myAutofiller",
+    "description": "Autofills stuff",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "welcome/background.js"
+    }
+}
